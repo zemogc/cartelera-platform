@@ -49,8 +49,13 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",
     "drf_spectacular",
+    "organizations",
+    "devices",
+    "playlists",
+    "mediafiles",
+    "delivery",
 
-    # Apps propias (las irás agregando)
+    # Apps propias (se van agregando aquí)
     # "organizations",
     # "users",
     # "devices",
